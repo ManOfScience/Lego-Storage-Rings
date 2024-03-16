@@ -1,0 +1,25 @@
+{
+    "atomType": "Molecule",
+    "name": "Lego Storage Rings",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 699370,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.984375,
+            "y": 0.5,
+            "uniqueID": 376949,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "simplify": false,
+    "unitsIndex": 0,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
+}
